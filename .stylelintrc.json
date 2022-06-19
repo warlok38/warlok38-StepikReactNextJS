@@ -10,6 +10,9 @@
 		"indentation": [
 			"tab"
 		],
-		"color-hex-case": "upper"
+		"color-hex-case": "upper",
+		"no-empty-source": null,
+    	"declaration-empty-line-before": null,
+    	"no-missing-end-of-source-newline": null
 	}
 }
