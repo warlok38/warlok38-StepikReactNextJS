@@ -27,6 +27,10 @@
     background-color: transparent; 
     border: 1px solid var(--gray-light);
 }
+.ghost:hover {
+    color: var(--white);
+    background-color: var(--primary);
+}
 
 .arrow {
     display: inline-block;
